@@ -14,7 +14,6 @@
 		3C66F95529AAAB4E000B5BCC /* HomeMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F94D29AAAB4E000B5BCC /* HomeMain.swift */; };
 		3C66F95629AAAB4E000B5BCC /* HomeInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F94E29AAAB4E000B5BCC /* HomeInteractor.swift */; };
 		3C66F95729AAAB4E000B5BCC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F94F29AAAB4E000B5BCC /* HomeView.swift */; };
-		3C66F95829AAAB4E000B5BCC /* HomeEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F95029AAAB4E000B5BCC /* HomeEntity.swift */; };
 		3C66F96429AAACAE000B5BCC /* ProfileViewUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F95C29AAACAE000B5BCC /* ProfileViewUI.swift */; };
 		3C66F96529AAACAE000B5BCC /* ProfilePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F95D29AAACAE000B5BCC /* ProfilePresenter.swift */; };
 		3C66F96629AAACAE000B5BCC /* ProfileRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F95E29AAACAE000B5BCC /* ProfileRouter.swift */; };
@@ -22,7 +21,6 @@
 		3C66F96829AAACAE000B5BCC /* ProfileMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F96029AAACAE000B5BCC /* ProfileMain.swift */; };
 		3C66F96929AAACAE000B5BCC /* ProfileInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F96129AAACAE000B5BCC /* ProfileInteractor.swift */; };
 		3C66F96A29AAACAE000B5BCC /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F96229AAACAE000B5BCC /* ProfileView.swift */; };
-		3C66F96B29AAACAE000B5BCC /* ProfileEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F96329AAACAE000B5BCC /* ProfileEntity.swift */; };
 		3C66F96E29AB9801000B5BCC /* TabBarGeneric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F96D29AB9801000B5BCC /* TabBarGeneric.swift */; };
 		3C66F97129ABD552000B5BCC /* CollOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F97029ABD552000B5BCC /* CollOne.swift */; };
 		3C66F97329ABE257000B5BCC /* Extensions+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C66F97229ABE257000B5BCC /* Extensions+Utils.swift */; };
@@ -41,7 +39,6 @@
 		3C66F94D29AAAB4E000B5BCC /* HomeMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeMain.swift; sourceTree = "<group>"; };
 		3C66F94E29AAAB4E000B5BCC /* HomeInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeInteractor.swift; sourceTree = "<group>"; };
 		3C66F94F29AAAB4E000B5BCC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
-		3C66F95029AAAB4E000B5BCC /* HomeEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeEntity.swift; sourceTree = "<group>"; };
 		3C66F95C29AAACAE000B5BCC /* ProfileViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewUI.swift; sourceTree = "<group>"; };
 		3C66F95D29AAACAE000B5BCC /* ProfilePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePresenter.swift; sourceTree = "<group>"; };
 		3C66F95E29AAACAE000B5BCC /* ProfileRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileRouter.swift; sourceTree = "<group>"; };
@@ -49,7 +46,6 @@
 		3C66F96029AAACAE000B5BCC /* ProfileMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileMain.swift; sourceTree = "<group>"; };
 		3C66F96129AAACAE000B5BCC /* ProfileInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileInteractor.swift; sourceTree = "<group>"; };
 		3C66F96229AAACAE000B5BCC /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
-		3C66F96329AAACAE000B5BCC /* ProfileEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEntity.swift; sourceTree = "<group>"; };
 		3C66F96D29AB9801000B5BCC /* TabBarGeneric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarGeneric.swift; sourceTree = "<group>"; };
 		3C66F97029ABD552000B5BCC /* CollOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollOne.swift; sourceTree = "<group>"; };
 		3C66F97229ABE257000B5BCC /* Extensions+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions+Utils.swift"; sourceTree = "<group>"; };
@@ -141,7 +137,6 @@
 				3C66F94D29AAAB4E000B5BCC /* HomeMain.swift */,
 				3C66F94E29AAAB4E000B5BCC /* HomeInteractor.swift */,
 				3C66F94F29AAAB4E000B5BCC /* HomeView.swift */,
-				3C66F95029AAAB4E000B5BCC /* HomeEntity.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -156,7 +151,6 @@
 				3C66F96029AAACAE000B5BCC /* ProfileMain.swift */,
 				3C66F96129AAACAE000B5BCC /* ProfileInteractor.swift */,
 				3C66F96229AAACAE000B5BCC /* ProfileView.swift */,
-				3C66F96329AAACAE000B5BCC /* ProfileEntity.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -231,14 +225,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C66F96B29AAACAE000B5BCC /* ProfileEntity.swift in Sources */,
 				3C66F95729AAAB4E000B5BCC /* HomeView.swift in Sources */,
 				3C66F95129AAAB4E000B5BCC /* HomeViewUI.swift in Sources */,
 				3C66F96929AAACAE000B5BCC /* ProfileInteractor.swift in Sources */,
 				3C66F96829AAACAE000B5BCC /* ProfileMain.swift in Sources */,
 				3CAB78C029AAA74200707915 /* AppDelegate.swift in Sources */,
 				3C66F96E29AB9801000B5BCC /* TabBarGeneric.swift in Sources */,
-				3C66F95829AAAB4E000B5BCC /* HomeEntity.swift in Sources */,
 				3C66F96729AAACAE000B5BCC /* ProfileProtocols.swift in Sources */,
 				3C66F96429AAACAE000B5BCC /* ProfileViewUI.swift in Sources */,
 				3C66F97529ABE492000B5BCC /* CollTwo.swift in Sources */,

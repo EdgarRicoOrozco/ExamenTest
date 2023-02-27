@@ -88,6 +88,7 @@ class ProfileViewUI: UIView{
         textfield.setPlaceholderTextColor(color: .gray)
         textfield.leftView = UIView(frame: CGRect(x: 0, y: 0, width: 10, height: 10))
         textfield.leftViewMode = .always
+        textfield.isSecureTextEntry = true
         textfield.inputAccessoryView = toolBar
         textfield.layer.cornerRadius = 10
         textfield.layer.shadowColor = CGColor(red: 0, green: 0, blue: 0, alpha: 100)
